@@ -1,0 +1,15 @@
+/config/workspace/api-documentation-NICINITE/Program00/obj/Debug/net8.0/Program00.GeneratedMSBuildEditorConfig.editorconfig
+/config/workspace/api-documentation-NICINITE/Program00/obj/Debug/net8.0/Program00.AssemblyInfoInputs.cache
+/config/workspace/api-documentation-NICINITE/Program00/obj/Debug/net8.0/Program00.AssemblyInfo.cs
+/config/workspace/api-documentation-NICINITE/Program00/obj/Debug/net8.0/Program00.csproj.CoreCompileInputs.cache
+/config/workspace/api-documentation-NICINITE/Program00/obj/Debug/net8.0/Program00.sourcelink.json
+/config/workspace/api-documentation-NICINITE/Program00/bin/Debug/net8.0/Program00
+/config/workspace/api-documentation-NICINITE/Program00/bin/Debug/net8.0/Program00.deps.json
+/config/workspace/api-documentation-NICINITE/Program00/bin/Debug/net8.0/Program00.runtimeconfig.json
+/config/workspace/api-documentation-NICINITE/Program00/bin/Debug/net8.0/Program00.dll
+/config/workspace/api-documentation-NICINITE/Program00/bin/Debug/net8.0/Program00.pdb
+/config/workspace/api-documentation-NICINITE/Program00/obj/Debug/net8.0/Program00.dll
+/config/workspace/api-documentation-NICINITE/Program00/obj/Debug/net8.0/refint/Program00.dll
+/config/workspace/api-documentation-NICINITE/Program00/obj/Debug/net8.0/Program00.pdb
+/config/workspace/api-documentation-NICINITE/Program00/obj/Debug/net8.0/Program00.genruntimeconfig.cache
+/config/workspace/api-documentation-NICINITE/Program00/obj/Debug/net8.0/ref/Program00.dll

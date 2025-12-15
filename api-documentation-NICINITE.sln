@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageCalculator", "AverageCalculator\AverageCalculator.csproj", "{76388FA1-4DD3-4FB5-83B2-1C2FB8203CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{5B83CD17-B84F-42D9-80DC-E1BCC0DA3824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program00", "Program00\Program00.csproj", "{22E799FF-7FCD-45CB-AB99-D1ACD9465CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76388FA1-4DD3-4FB5-83B2-1C2FB8203CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76388FA1-4DD3-4FB5-83B2-1C2FB8203CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76388FA1-4DD3-4FB5-83B2-1C2FB8203CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76388FA1-4DD3-4FB5-83B2-1C2FB8203CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B83CD17-B84F-42D9-80DC-E1BCC0DA3824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B83CD17-B84F-42D9-80DC-E1BCC0DA3824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B83CD17-B84F-42D9-80DC-E1BCC0DA3824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B83CD17-B84F-42D9-80DC-E1BCC0DA3824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E799FF-7FCD-45CB-AB99-D1ACD9465CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E799FF-7FCD-45CB-AB99-D1ACD9465CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E799FF-7FCD-45CB-AB99-D1ACD9465CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E799FF-7FCD-45CB-AB99-D1ACD9465CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
