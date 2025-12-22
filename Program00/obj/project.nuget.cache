@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e0TY0C7kCCuIp8zo2qcY+cv/0U8NOIl3127CW9U8owhNkRRvXrG08VCv2FYMGW4UPfJgLDZ5/y/9m2f0qb4kLg==",
+  "dgSpecHash": "ioJDmrPCglUADwkWEq5Fc6ZJdEakbTr/KQth1AsGOhZQysqJd/bMRGdr3ZSaZv/3onJkUwlBEAqiacN3PYlupQ==",
   "success": true,
-  "projectFilePath": "/config/workspace/api-documentation-NICINITE/Program00/Program00.csproj",
+  "projectFilePath": "/workspace/api-documentation-NICINITE/Program00/Program00.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
