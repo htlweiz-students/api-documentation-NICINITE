@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "AverageCalculator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AverageCalculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AverageCalculator.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AverageCalculator/1.0.0": {
+      "type": "project",
+      "path": "../AverageCalculator/AverageCalculator.csproj",
+      "msbuildProject": "../AverageCalculator/AverageCalculator.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "AverageCalculator >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/config/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/config/workspace/api-documentation-NICINITE/AverageCalculator/AverageCalculator.csproj": {
+              "projectPath": "/config/workspace/api-documentation-NICINITE/AverageCalculator/AverageCalculator.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
