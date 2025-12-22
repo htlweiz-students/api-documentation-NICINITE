@@ -9,8 +9,8 @@ public class UnitTest1
     {
         double[] test_element = new double[3];
         double[] expected_element = {1, 2, 3}; 
-        Calculator list1 = new(test_element);
-        Calculator list2 = new(expected_element);
+        Average list1 = new(test_element);
+        Average list2 = new(expected_element);
         double[] test_list = list1.GetElements();
         double[] exception = list2.GetElements();
 
@@ -26,8 +26,8 @@ public class UnitTest1
     {
         double[] test_element = {1, 2, 3};
         double[] expected_element = {4, 5, 6}; 
-        Calculator list1 = new(test_element);
-        Calculator list2 = new(expected_element);
+        Average list1 = new(test_element);
+        Average list2 = new(expected_element);
         double[] test_list = list1.GetElements();
         double[] exception = list2.GetElements();
 
@@ -43,8 +43,8 @@ public class UnitTest1
     {
         double[] test_element = {1, 2, 3};
         double[] expected_element = {7, 5, 6}; 
-        Calculator list1 = new(test_element);
-        Calculator list2 = new(expected_element);
+        Average list1 = new(test_element);
+        Average list2 = new(expected_element);
         double[] test_list = list1.GetElements();
         double[] exception = list2.GetElements();
 
@@ -61,8 +61,8 @@ public class UnitTest1
     {
         double[] test_element = new double[3];
         double[] expected_element = {1, 2, 3}; 
-        Calculator list1 = new(test_element);
-        Calculator list2 = new(expected_element);
+        Average list1 = new(test_element);
+        Average list2 = new(expected_element);
         double[] test_list = list1.GetElements();
         double[] exception = list2.GetElements();
 
@@ -75,8 +75,8 @@ public class UnitTest1
     {
         double[] test_element = {1, 2, 3};
         double[] expected_element = {7, 8, 9}; 
-        Calculator list1 = new(test_element);
-        Calculator list2 = new(expected_element);
+        Average list1 = new(test_element);
+        Average list2 = new(expected_element);
         double[] test_list = list1.GetElements();
         double[] exception = list2.GetElements();
 

@@ -1,6 +1,10 @@
 ﻿namespace AverageCalculator 
 {
-    public class Calculator
+    /// <summary>
+    /// Calculates the arithemetic number of a added value
+    /// or added list and counts every changes.
+    /// </summary>
+    public class Average
     {
         private double[] list;
         private int length;
@@ -86,7 +90,7 @@
         /// </summary>
         /// <param name="list">field of the class</param>
         /// <param name="new_list">value for the new added array</param>
-        public Calculator(double[] new_list){
+        public Average(double[] new_list){
             list = new_list;
         }
     }

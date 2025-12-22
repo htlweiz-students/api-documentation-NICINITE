@@ -8,7 +8,7 @@ namespace Program00
         public static int Main() {
             double[] list_element = {0, 1, 2};
             double[] list_element_two = {1, 2, 3};
-            Calculator list = new(list_element);
+            Average list = new(list_element);
             double[] new_list = list.GetElements();
             int count = 0; 
 
